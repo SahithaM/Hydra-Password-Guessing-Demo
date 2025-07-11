@@ -31,13 +31,13 @@ This lab demonstrates practical password guessing attacks against SSH and SMB se
   - Containing numbers and lowercase letters
 
 ## Screenshots
-![Password List Analysis](Images/password-list.png)  
+![Password List Analysis](Screenshots/password-list.png)  
 *Figure 1: Password list analysis*
 
-![SSH Attack](Images/ssh-attack.png)  
+![SSH Attack](Screenshots/ssh-attack.png)  
 *Figure 2: SSH password guessing results*
 
-![SMB Attack](Images/smb-attack.png)  
+![SMB Attack](Screenshots/smb-attack.png)  
 *Figure 3: SMB password guessing results*
 
 ## Conclusion
